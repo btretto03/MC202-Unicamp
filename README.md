@@ -22,6 +22,6 @@ The codes are organized in the `tarefas/` folder, separated by lab number.
 
 ## 📝 Class Notes
 
-Besides the code, I left a file named **`anotacoes.pdf`** in the root folder.
+Besides the code, I left a file named **`Estrutura de Dados.pdf'** in the root folder.
 
 This PDF contains my personal summary of the course. It is worth mentioning that the content is based **almost entirely on the slides of Professor Rafael C. S. Schouery**, who taught the course.
